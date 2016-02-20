@@ -1,0 +1,20 @@
+---
+description: 'OUR APPROACH Home Naivasha Children’s Shelter targets to rehabilitate 30 street boys per year between the ages of 7 to 14 and reunite them with their families. '
+author: []
+datePublished: '2016-02-20T16:15:05.285Z'
+publisher:
+  domain: ncshelter.org
+  name: ncshelter.org
+dateModified: '2016-02-20T16:14:11.043Z'
+title: ''
+sourcePath: _posts/2016-02-20-our-approach-home-naivasha-childrens-shelter-targets-to-reh.md
+published: true
+inFeed: true
+hasPage: true
+inNav: false
+url: our-approach-home-naivasha-childrens-shelter-targets-to-reh/index.html
+_context: 'http://schema.org'
+_type: Article
+
+---
+OUR APPROACH Home Naivasha Children's Shelter targets to rehabilitate 30 street boys per year between the ages of 7 to 14 and reunite them with their families. Naivasha Children's Shelter reaches out to boys while they are still on the streets, building relationships with them through feeding programs, counseling, and sports. The social worker can sometimes even spend nights on the street with the children, seeking to understand their struggles and gain their trust. Through this close interaction, the social worker get to know each boy's story. He will find out the child's home and try to understand the circumstances that drove him to a life on the street. Most often, the child experienced difficult circumstances either at home or at school, and opted for the streets as a way to escape from the unfriendly environment. The social worker will try to connect with the child's parent or guardian and help him understand the conditions that pushed his child to the streets. During these home visits, the social worker will begin to reach out to the parents in view of the child's rehabilitation. Where the parents or guardians have personal problems that strain their relationship with the child, the social worker will try to counsel them into supporting the child's rehabilitation process as much as possible. After several months of street work, Shelter's social worker is ready to identify boys on the streets who are ready to begin a new life. The boys are rescued from the street, and brought to Naivasha Children Shelter, where they are provided with clean clothes, food, and a warm bed to sleep in. The boys will stay at Shelter for a period of one year where they will be nurtured and cared for as they learn all of the skills they will need to return to their family. Boys participate in both group and individual counseling, as well as drug education and life skills training. The boys learn responsibility through normal family chores (milking the cows, washing their clothes, helping to prepare food), and will learn how to be leaders in their communities by working together to establish guidelines for living together. They also have the opportunity for recreational activities such as sports, hiking and scouting as well as talent and career development. Qualified teachers will help the boys learn though informal education that will prepare them for placement into the formal school system. The boys are also involved in a local church that guides them in their spiritual development. As the year progresses, the social worker works with the boys' families to prepare them for reintegration. He counsels them on parenting skills, and also helps them organize self-help groups, that can help them secure loans to begin small businesses. At the end of the year, the social worker will assess each boy's home to make sure both the family and the boy are prepared for reintegration. If the family situation is favorable, and a loving parent is prepared to provide for the boy's basic needs and schooling, the boy is reintegrated. In cases where the parent is not yet ready to receive the child, the child will continue to stay at Shelter while the social worker woks with the family.
